@@ -1,5 +1,6 @@
 <?php
-	echo "new stuff";
+	echo "new stuff</br>";
+	echo exec ('perl thing.pl');
 	exit;
 	//comment 1
 	//comment 2
